@@ -1,1 +1,14 @@
-
+{
+  "user": {
+  "uuid": "isjdlksmdld",
+  "image": "https://images.app.goo.gl/pQoYfbw96T6bpu5K9",
+  "firstName": "John",
+  "lastName": "Doe",
+  "address": "Some Address",
+  "phone": "+370 xxx xxxx"
+},
+  "credential": {
+     "token": "ijsjngjsnjkhnsd767e897rgw0-095ob[p7bb98unos8unpc98eup9o8r4yiu5ia76utkrahbwoaiwubyerhno9ai8lujnil",
+      "refreshToken": "jhsldjnlkjshbjhgfvsdkokkfmfs;el"
+  }
+}
